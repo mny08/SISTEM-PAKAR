@@ -1,6 +1,6 @@
-Sistem-Pakar-Mendiagnosa-Kerusakan-Handphone
+Sistem-Pakar-Mendiagnosa-Penyaakit-Yang-Disebabkan-Oleh-Nyamuk
 ============================================
 
 
-Sistem Pakar Mendiagnosa kerusakan pada Hanphone.
+Sistem Pakar Mendiagnosa Penyakit yang disebabkan oleh Nyamuk
 
